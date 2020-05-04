@@ -1,0 +1,29 @@
+body {
+  font-family: Montserrat;
+}
+
+#about {
+  background-color: #ffeadb;
+  padding: 16px;
+}
+
+#main {
+  background-color: #f7c5a8;
+  padding: 5% 10%;
+}
+
+#footer {
+  background-color: #678a74;
+  text-align: center;
+}
+
+.pic {
+  text-align: center;
+}
+
+.pic-box {
+  border: solid;
+  border-color: #ffeadb;
+  max-width: 80%;
+  margin-bottom: 1rem;
+}
